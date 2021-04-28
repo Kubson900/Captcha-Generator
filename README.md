@@ -9,4 +9,6 @@ Simple graphical user interface CAPTCHA Generator using captcha libratry: https:
 * **Multrithreading**
 
 # Interface
-![alt text](https://raw.githubusercontent.com/Kubson900/Captcha-Generator/main/Interface.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kubson900/Captcha-Generator/main/Interface.png">
+</p>
