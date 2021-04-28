@@ -5,7 +5,7 @@ Simple graphical user interface CAPTCHA Generator using captcha libratry: https:
 * **Object Oriented Programming**
 * **Using external libraries**
 * **Generators**
-* **Graphical User Interface - Tkinter
+* **Graphical User Interface - Tkinter**
 * **Multrithreading**
 
 # Interface
